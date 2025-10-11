@@ -1,19 +1,24 @@
 # Hi, I'm Joey
 
-🎓 Student at the University of Nebraska - Lincoln
-💻 Computer Science and Data Science Majors
+- Student at the University of Nebraska - Lincoln
+- Computer Science and Data Science Majors
 
----
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💼 [Portfolio Webpage](https://github.com/joeyShea/joeyShea.github.io)
+### [Portfolio Webpage](https://github.com/joeyShea/joeyShea.github.io)
 My personal webpage containing info about my education, experience, and projects
 Developed with React & TypeScript
-![Portfolio Screenshot](https://raw.githubusercontent.com/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joeyShea/joeyShea/main/images/portfolio.jpg" width="500">
+</p>
 
----
+### [Stock Dashboard](https://github.com/joeyShea/StockDashboard)
+Live-updating dashboard to monitor economic data from FRED and Yahoo Finance
+Developed with Python
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joeyShea/joeyShea/main/images/demo.jpg" width="500">
+</p>
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeyshea&show_icons=true&theme=dark)
+## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeyshea&layout=compact&theme=dark)
